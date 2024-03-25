@@ -1,4 +1,4 @@
-package Stac;
+package Stack;
 
 public class Practice {
 
