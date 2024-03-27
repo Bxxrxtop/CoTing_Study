@@ -1,4 +1,4 @@
-package Week1.Stack;
+package Stack;
 
 public class Practice {
 
